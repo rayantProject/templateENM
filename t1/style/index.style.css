@@ -1,0 +1,13 @@
+
+header
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+header nav 
+{
+    border-radius: 50px; 
+    width: 95%;
+}
