@@ -2,6 +2,11 @@
 
 {
 
+    nav ul li
+    {
+        font-size: medium;
+    }
+
     #container_card
     {
         display: flex;
@@ -17,5 +22,11 @@
     }
 
 
+     
+
+
     
 }
+
+
+
