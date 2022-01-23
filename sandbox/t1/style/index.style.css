@@ -2,6 +2,11 @@
 
 {
 
+    nav ul li
+    {
+        font-size: medium;
+    }
+
     #container_card
     {
         display: flex;
@@ -13,5 +18,15 @@
     main div .card 
     {
         width: 18rem;
+
     }
+
+
+     
+
+
+    
 }
+
+
+
